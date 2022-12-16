@@ -1,0 +1,16 @@
+.header {
+    height: 55px;
+    background-color: #f55a5a;
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    gap: 7px;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.header > h1 {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+}

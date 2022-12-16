@@ -1,0 +1,8 @@
+.notes-wrapper {
+    margin: 0px auto;
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    font-weight: 400;
+    color: #2b283a;
+}
